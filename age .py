@@ -1,4 +1,5 @@
 # this is age-checker project using python
+# different approach for age checker
 import time
 
 
